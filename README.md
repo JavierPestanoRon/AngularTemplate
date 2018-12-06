@@ -1,7 +1,7 @@
-[![Build Status](https://travis-ci.org/JavierPestanoRon/angular6_templates.svg?branch=master)](https://travis-ci.org/JavierPestanoRon/angular6_templates)
-[![dependencies Status](https://david-dm.org/JavierPestanoRon/angular6_templates/status.svg)](https://david-dm.org/JavierPestanoRon/angular6_templates)
-[![devDependencies Status](https://david-dm.org/JavierPestanoRon/angular6_templates/dev-status.svg)](https://david-dm.org/JavierPestanoRon/angular6_templates?type=dev)
-[![Greenkeeper badge](https://badges.greenkeeper.io/JavierPestanoRon/angular6_templates.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/JavierPestanoRon/AngularTemplate.svg?branch=master)](https://travis-ci.org/JavierPestanoRon/AngularTemplate)
+[![dependencies Status](https://david-dm.org/JavierPestanoRon/AngularTemplate/status.svg)](https://david-dm.org/JavierPestanoRon/AngularTemplate)
+[![devDependencies Status](https://david-dm.org/JavierPestanoRon/AngularTemplate/dev-status.svg)](https://david-dm.org/JavierPestanoRon/AngularTemplate?type=dev)
+[![Greenkeeper badge](https://badges.greenkeeper.io/JavierPestanoRon/AngularTemplate.svg)](https://greenkeeper.io/)
 
 
 
